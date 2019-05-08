@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     override func performSegue(withIdentifier identifier: String, sender: Any?) {
         //
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        //
+    }
 
 
 }
